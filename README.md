@@ -18,3 +18,8 @@ By the way if you forget to give it a website url it will itself prompt you to w
 If you want something else then tell me. I am actually learning python and experimenting with it.
 
 My main motivation for this was youtube-dl.
+
+Where it is used:
+===================
+I used this script on one on my hobby projects http://www.dailymotion-dl.appspot.com
+but currently the download link it produces is not working however you can use this script locally and it should work.....:)
